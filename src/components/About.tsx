@@ -12,7 +12,7 @@ export default function About() {
               nothing better becomes a well-bred man than agriculture.
             </p>
             <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-              At Ragusma Farms, we've been cultivating the finest organic produce for generations. 
+              At Ragusma Farms, we&apos;ve been cultivating the finest organic produce for generations. 
               Our commitment to sustainable farming practices and traditional methods ensures that 
               every product that leaves our farm carries the essence of pure, natural goodness.
             </p>
